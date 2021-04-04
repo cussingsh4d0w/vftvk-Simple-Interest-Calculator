@@ -43,8 +43,32 @@ footer{
     clear:left;
     text-align:left;
 }
-mark{
-    background-color:yellow;
+#result1{
+    display:inline-block;
+    float:left;
+    clear:left;
+    text-align:left;
+}
+#result2{
+    display:inline-block;
+    float:left;
+    clear:left;
+    text-align:left;
+}
+#result3{
+    display:inline-block;
+    float:left;
+    clear:left;
+    text-align:left;
+}
+#result4{
+    display:inline-block;
+    float:left;
+    clear:left;
+    text-align:left;
+}
+.highlight {
+  background-color: yellow;
 }
 
 
